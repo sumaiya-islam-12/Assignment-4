@@ -1,0 +1,128 @@
+.fix-place{
+    display: inline-block;
+}
+.background-image{
+    background-image: url(image/banner/welcome.png);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    height: 683px;
+
+}
+
+.banner-text{
+    background: white;
+    width: 290px;
+    height: 73px;
+    padding: 10px 0 0 30px;
+    letter-spacing: 10px;
+    margin-top: 50px;
+
+}
+.banner-text-2{
+    background: white;
+    width: 495px;
+    height: 56px;
+    top: 342px;
+    left: 112px;
+    gap: 0px;
+    opacity: 0px;
+   padding-left: 10px;
+    padding-top: 10px;
+    
+}
+#margin{
+    padding-top: 70px;
+}
+
+.background-image-two{
+    background-image: url(image/services/services.png);
+   background-size: cover;
+   background-repeat:no-repeat ;
+   height: 683px;
+   
+}
+.banner-text-3{
+    background: white;
+    width: 700px;
+    height: 66px;
+    top: 342px;
+    left: 112px;
+    gap: 0px;
+    opacity: 0px;
+ padding: 10px 10px 10px 10px;
+}
+.btn{
+    margin-top: 10px;
+}
+.background-image-three{
+    background-image: url(image/about-us/about-us.png);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    height: 683px;
+
+}
+.background-image-four{
+    background-image: url(image/social-media/social-media.png);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    height: 683px;
+
+}
+
+.banner-text-4{
+    background: white;
+    width: 400px;
+    height: 83px;
+    letter-spacing: 10px;
+    margin-top: 50px;
+    padding-left: 5px;
+    padding-top: 10px;
+}
+.background-image-five{
+    background-image: url(image/instagram/instagram.png);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    height: 375px;
+
+}
+.color{
+    color: white;
+    text-align: center;
+}
+
+.background-image-six{
+    background-image: url(image/youtube/youtube.png);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    height: 375px;
+}
+.background-image-seven{
+    background-image: url(image/facebook/facebook.png);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    height: 375px;
+}
+.background-image-eight{
+    background-image: url(image/twitter/twitter.png);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    height: 375px;
+}
+.circle{
+    border: 1px solid white;
+    height: 80px;
+    width: 80px;
+    border-radius:50% ;
+    
+}
+.bttn{
+   margin-top: -60px;
+}
+.position{
+    padding-top: 50px;
+  
+}
+.position-1{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
