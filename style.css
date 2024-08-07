@@ -126,3 +126,33 @@
     margin-top: 60px;
     margin-bottom: 60px;
 }
+@media screen and (max-width:912px) {
+    .background-image {
+        height:400px;
+    }
+    .background-image-two{
+        height:400px;
+    }
+    .background-image-three{
+        height: 400px;
+    }
+    .background-image-four{
+        height: 400px;
+    }
+
+}
+@media screen and (max-width:640px) {
+    .background-image {
+        height:200px;
+    }
+    .background-image-two{
+        height:200px;
+    }
+    .background-image-three{
+        height: 200px;
+    }
+    .background-image-four{
+        height: 200px;
+    }
+
+}
